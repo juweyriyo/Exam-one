@@ -1,0 +1,190 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.hedaer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.title{
+    display: flex;
+    list-style: none;
+    gap: 40px;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    list-style: none;
+    font-size: 20px;
+}
+.left-title{
+    display: flex;
+    gap: 40px;
+}
+.left-title button{
+    width: 170px;
+    height: 53px;
+    border-radius: 8px;
+    padding: 16px, 48px, 16px, 48px;
+    background-color: rgba(124, 78, 228, 1);
+    border: none;
+}
+.left-title img{
+    width: 22.06px;
+    height: 22.05px;
+    margin: 9px;
+}
+.main{
+    height: 796px;
+    width: 1480px;
+    background-color: rgba(124, 78, 228, 1);
+    padding-top:94px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 150px;
+}
+.rigth-man{
+    color: white;
+}
+h5{
+    padding-top: -20px;
+}
+
+.rigth-man h1{
+    margin-top: 20px;
+    font-size: 70px;
+}
+.rigth-man p{
+    margin-top: 20px;
+    color: rgba(255, 255, 255, 1);
+    font-size: 16px;
+}
+.rigth-man button{
+    margin-top: 20px;
+    width: 170px;
+    height: 53px;
+    border-radius: 8px;
+    padding: 16px, 48px, 16px, 48px;
+    background-color: rgba(255, 255, 255, 1);
+    border: none;
+}
+
+.development{
+    margin: 25px;
+}
+
+.left-development{
+    background-color: rgb(48, 46, 46);
+    color: rgb(203, 198, 198);
+    height: 360px;
+    width:920px;
+    margin-left: 416px;
+    border-radius: 16px;
+    margin-top: -280px;
+   
+}
+
+.left-development .hed {
+    display: flex;
+    gap: 25px;
+    margin-top: 25px;
+}
+
+.left-development h1{
+    margin-top: 20px;
+}
+.left-development p{
+    margin-top: 20px;
+}
+
+.left-development button{
+    margin-top: 20px;
+}
+.Our_Recent-pos button{
+    width: 170px;
+    height: 53px;
+    border-radius: 8px;
+    padding: 16px, 48px, 16px, 48px;
+    background-color: rgba(124, 78, 228, 1);
+    border: none;
+    margin-top: 20px;
+}
+.Our_Recent-pos{
+    display: flex;
+    justify-content: space-between;
+}
+.Our_Recent_Post{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 40px;
+}
+.Our_Recent_Post img{
+    margin-top: 20px;
+    width: 712px;
+    height: 456px;
+}
+
+.lft-development{
+    margin-top: 20px;
+}
+.kanfutarka{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box{
+    margin-top: 25px;
+    width: 400px;
+    height:630px;
+    border-radius: 16px;
+}
+
+.fuuter{
+    width: 1452px;
+    height: 534px;
+    background-color: rgba(124, 78, 228, 1);
+    text-align: center;
+    color: white;
+}
+
+.fuuter form{
+    margin-top: 20px;
+    
+}
+.haa{
+    padding-top: 50px;
+    font-size: 40px;
+}
+.for-fotar {
+    display: flex;
+    gap: 25px;
+    margin-top: 20px;
+    
+}
+.for-fotar button {
+    margin-top: 20px;
+    width: 166px;
+    height: 56px;
+    background-color: rgba(124, 78, 228, 1);
+    color: white;
+    border-radius: 8px;
+    
+}
+.for-fotar input{
+    width: 320px;
+    height: 56px;
+    margin-left: 469px;
+    background-color: rgba(255, 255, 255, 1);
+    text-align: center;
+    border: none;
+}
+
+.fuuter p{
+    color: rgba(187, 187, 187, 1);
+    margin-top: 20px;
+}
+
+@media screen (max-width>600){
+    
+}
